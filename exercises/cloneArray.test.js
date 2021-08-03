@@ -6,4 +6,4 @@ test('properly clones array', () => {
     expect(cloneArray(array)).not.toBe(array);
 })
 
-// describe(
+// describe is for define a suite of test(...)
