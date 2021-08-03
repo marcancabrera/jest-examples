@@ -1,3 +1,6 @@
+const testEmpty = () => {
+  return true;
+}
 const sortString = (input) => {
   var result = "";
   var saveOrder = {};
